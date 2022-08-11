@@ -1,0 +1,57 @@
+/* tag selectors */
+body{
+    background-color: #221F3B;
+    font-family:'Courier New', Courier, monospace;
+    font-size: large;
+}
+hr{
+            /* background-color: #A2B5BB; */
+            border-style: dotted none none none;
+            border-width: 5px;
+            border-color: #1B2430;
+            /* height: 2px; */
+            width: 10%;
+}
+img{
+            height: 300px;
+            margin-bottom: 0%;
+            margin-right: 3%;
+            margin-top: 5%;
+
+        }
+h1{
+            color: #FFB562;
+            
+        }
+h3{
+            color: #FFB562;
+        }
+p {
+            color: #EEEEEE;
+        }
+ul{
+            color: #EEEEEE;
+        }
+ol{
+            color: #EEEEEE;
+        }
+td{
+            color: #EEEEEE;
+        }
+/* class selectors */
+/* create a class in html and then call it in css
+ */
+/* 
+ .classname{
+
+ } */
+/* class = "weuiweh dhuw " but not id */
+
+ /* id selector */
+ /* create an id in html and then call it in css */
+ /* #idname{
+
+ } */
+  /* id is unique */
+  /* and given more priority than normal tag selectors */
+/* hover in css */
